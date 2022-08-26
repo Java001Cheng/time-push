@@ -294,7 +294,7 @@ def send_message(to_user, access_token, city_name, weather, max_temperature, min
             },
 
             "wanan": {
-                "value": wanan,
+                "value": lizhi,
                 "color": get_color()
             },
 
